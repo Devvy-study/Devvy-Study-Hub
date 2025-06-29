@@ -7,6 +7,18 @@ from. SSAFY_13th_seoul01
 
 ---
 
+## 👥 참여 인원
+
+| 이름 | GitHub |
+| --- | --- |
+| 고영우 | [ywk927](https://github.com/ywk927) |
+| 심양관 | [shim yang gwan](https://github.com/Mabbru) |
+| 송명철 | [SMASMC](https://github.com/SMASMC) |
+| 이채연 | [Chaeyeon LEE](https://github.com/amy010510) |
+| 최유진(스터디장) | [jinnyujinchoi](https://github.com/jinnyujinchoi) |
+
+---
+
 ## 🧠 스터디 종류 및 방식
 
 ### 💻 CS 스터디
@@ -58,18 +70,6 @@ from. SSAFY_13th_seoul01
 
 - 각자 자유롭게 공부 & 인증
 - 여름 전까지 모두 시험 통과를 목표로!
-
----
-
-## 👥 참여 인원
-
-| 이름 | GitHub |
-| --- | --- |
-| 고영우 | [ywk927](https://github.com/ywk927) |
-| 심양관 | [shim yang gwan](https://github.com/Mabbru) |
-| 송명철 | [SMASMC](https://github.com/SMASMC) |
-| 이채연 | [Chaeyeon LEE](https://github.com/amy010510) |
-| 최유진(스터디장) | [jinnyujinchoi](https://github.com/jinnyujinchoi) |
 
 ---
 
