@@ -1,6 +1,6 @@
-# 📚 Devvy 스터디 소개
+# 📚 Devvy 스터디 소개 (2025.02 ~ 2025.07)
 
-Devvy는 CS/알고리즘/SQL/영어/정처기 등 **다양한 영역**을 함께 공부하는 스터디입니다. <br/>
+Devvy는 CS/알고리즘/SQL/정처기 등 **다양한 영역**을 함께 공부하는 스터디입니다. <br/>
 개발자 면접과 실력을 동시에 대비하며, 각자의 목표를 응원하고 지지합니다. 🙌
 
 from. SSAFY_13th_seoul01
@@ -15,7 +15,7 @@ from. SSAFY_13th_seoul01
 | 심양관 | [shim yang gwan](https://github.com/Mabbru) |
 | 송명철 | [SMASMC](https://github.com/SMASMC) |
 | 이채연 | [Chaeyeon LEE](https://github.com/amy010510) |
-| 최유진(스터디장) | [jinnyujinchoi](https://github.com/jinnyujinchoi) |
+| 최유진(스터디리더) | [jinnyujinchoi](https://github.com/jinnyujinchoi) |
 
 ---
 
@@ -30,7 +30,7 @@ from. SSAFY_13th_seoul01
 
 ### 📘 방학 기간마다 해당 주제를 돌아가며 준비 합니다.
 
-📍 7월 1주차
+📍 준비 예시
 
 | 장 | 주제 | 발표자 |
 | --- | --- | --- |
